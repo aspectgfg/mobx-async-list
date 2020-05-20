@@ -1,0 +1,21 @@
+{
+  "name": "mobx-async-list",
+  "version": "1.0.0",
+  "description": "Wonderfully easy to use mobx async lists",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "aspectgfg <zaid.daghestani@gmail.com>",
+  "license": "MIT",
+  "repository": "git@github.com:aspectgfg/mobx-async-list.git",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "mobx": "^5.15.4"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.152"
+  }
+}
